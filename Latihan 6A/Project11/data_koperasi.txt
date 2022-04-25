@@ -1,0 +1,702 @@
+KOPERASI KUCING USA PEDULI
+
+->Nama Anggota as
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota asd
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota dac
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota dd
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0
+->Nama Anggota 
+ -Jumalah tabungan bulan Januari  :0
+ -Jumalah tabungan bulan Febuari  :0
+ -Jumalah tabungan bulan Maret    :0
+ -Jumalah tabungan bulan April    :0
+ -Jumalah tabungan bulan Mei      :0
+ -Jumalah tabungan bulan Juni     :0
+ -Jumalah tabungan bulan Juli     :0
+ -Jumalah tabungan bulan Agustus  :0
+ -Jumalah tabungan bulan September:0
+ -Jumalah tabungan bulan Oktober  :0
+ -Jumalah tabungan bulan November :0
+ -Jumalah tabungan bulan Desember :0
+ -Jumalah tabungan 1 Tahun        :0

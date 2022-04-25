@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\praktek programinga\2020-2-019 David Valentino Nugroho\Latihan 6A\Project11\Source.cpp(25,16): warning C4101: 'uang': unreferenced local variable
+D:\praktek programinga\2020-2-019 David Valentino Nugroho\Latihan 6A\Project11\Source.cpp(24,6): warning C4101: 'i': unreferenced local variable
+  Project11.vcxproj -> D:\praktek programinga\2020-2-019 David Valentino Nugroho\Latihan 6A\Debug\Project11.exe
