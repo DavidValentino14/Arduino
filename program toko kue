@@ -1,0 +1,294 @@
+#include <iostream>
+#include <array>
+#include <conio.h>				// HEADER 
+#include <string>
+#include <fstream>
+
+using namespace std;
+string jeniskue[3] = { "KUE", "BOLU", "KUE ULANG TAHUN" };
+string menu[5] = {};
+int harga[5] = {};
+int stok[5] = {};
+int jumlah[5] = {};
+string pilih[5] = {};
+int total[5] = {};
+
+
+
+
+
+int header()
+{
+	cout << "Toko Sentosa" << endl;
+	return 0;
+}
+
+int pembeli()
+{
+	int pilihpembeli;
+	system("CLS");
+	header();
+	cout << "Hai Pembeli" << endl;
+	cout <<"1.  " << menu[0] << endl;
+	cout <<"2.  " << menu[1] << endl;
+	cout <<"3.  " << menu[2] << endl;
+	cin >> pilihpembeli;
+	if (pilihpembeli == 1)
+	{
+		system("CLS");
+		cout << jeniskue[0];
+		header();
+	}
+	else if (pilihpembeli == 2)
+	{
+		system("CLS");
+		cout << jeniskue[1];
+		header();
+	}
+	else if (pilihpembeli == 3)
+	{
+		system("CLS");
+		cout << jeniskue[2];
+		header();
+	}
+	return 0;
+}
+
+int rasa()
+{
+	int pilihrasa;
+	int kembali;
+	int bayar;
+	int bayar1;
+	int bayar2;
+	int lanjut;
+	int lanjut1;
+	int lanjut2;
+	system("CLS");
+	header();
+	cout << "Mau pilih rasa apa" << endl;
+	cout << "1 Coklatt " << endl;
+	cout << "2.Susu " << endl;
+	cout << "3. Strawberry" << endl;
+	cin >> pilihrasa;
+	if (pilihrasa == 1)
+	{
+		cout << menu[0] << " Coklat " << endl;
+		cout << "Ingin membeli berapa ?" << endl;
+		cin >> jumlah[0];
+		cout << "Totalnya adalah " << total[0];
+		cout << "Apakah anda ingin melanjutkan (tekan 1 untuk melanjutkan dan tekan 2 untuk kembali?" << endl;
+		cin >> bayar;
+		if (bayar == 1)
+		{
+			system("CLS");
+			kasir:
+			cout << "Silahkan ke kasir" << endl;
+			cout << "Tekan 1 untuk melanjutkan" << endl;
+			cin >> lanjut;
+			if (lanjut == 1)
+			{
+				system("CLS");
+				goto akhir;
+			}
+		}
+		else
+		{
+			cout << "input yang anda masukan salah" << endl;
+			goto kasir;
+		}
+	}
+	else if (pilihrasa == 2)
+	{
+
+		cout << menu[1] << " Susu " << endl;
+		cout << "Ingin membeli berapa ?" << endl;
+		cin >> jumlah[1];
+		cout << "Totalnya adalah " << total[1];
+		cout << "Apakah anda ingin melanjutkan (tekan 1 untuk melanjutkan dan tekan 2 untuk kembali?" << endl;
+		cin >> bayar1;
+		if (bayar1 == 1)
+		{
+			system("CLS");
+			cout << "Silahkan ke kasir" << endl;
+			cout << "Tekan 1 untuk melanjutkan" << endl;
+			cin >> lanjut1;
+			if (lanjut1 == 1)
+			{
+				system("CLS");
+				goto akhir;
+			}
+		}
+	}
+	else if (pilihrasa == 3)
+	{
+		cout << menu[2] << " Strawberyy " << endl;
+		cout << "Ingin membeli berapa ?" << endl;
+		cin >> jumlah[2];
+		cout << "Totalnya adalah " << total[2];
+		cout << "\nApakah anda ingin melanjutkan (tekan 1 untuk melanjutkan dan tekan 2 untuk kembali?" << endl;
+		cin >> bayar2;
+		if (bayar2 == 1)
+		{
+			system("CLS");
+			cout << "Silahkan ke kasir" << endl;
+			cout << "Tekan 1 untuk melanjutkan" << endl;
+			cin >> lanjut2;
+			if (lanjut2 == 1)
+			{
+				system("CLS");
+				goto akhir;
+			}
+		}
+	}
+	else
+	{
+		cout << "Input yang anda masukan salah " << endl;
+		cout << "Tekan 1 untuk kembali ke pilihan Rasa" << endl;
+		cin >> kembali;
+	}
+	akhir:
+	return 0;
+}
+
+int admin()
+{
+	int back;
+	int input;
+	int cetak;
+	system("CLS");
+	awal:
+	header();
+	cout << "Masukan Menu hari ini " << endl;
+	cout << "1. Input Makanan, Stok dan Harga" << endl;
+	cout << "2. Cetak pesanan Customer " << endl;
+	cout << "3. Cetak stok makanan" << endl;
+	cout << "4. Untuk Keluar ke menu utama" << endl;
+	cin >> input;
+	if (input == 1)
+	{
+		cout << "Menu 1 = ";
+		cin >> menu[0];
+		cout << "harganya Rp. ";
+		cin >> harga[0];
+		cout << "Stok nya ada ";
+		cin >> stok[0];
+		cout << "Menu 2 = ";
+		cin >> menu[1];
+		cout << "harganya Rp. ";
+		cin >> harga[1];
+		cout << "Stok nya ada ";
+		cin >> stok[1];
+		cout << "Menu 3 = ";
+		cin >> menu[2];
+		cout << "harganya Rp. ";
+		cin >> harga[2];
+		cout << "Stok nya ada ";
+		cin >> stok[2];
+		cout << "Tekan 1 untuk kembali" << endl;
+		cin >> back;
+		if (back == 1)
+		{
+			system("CLS");
+			goto awal;
+		}
+	}
+	else if (input == 2)
+	{
+		system("CLS");
+		cout << "Ingin Cetak Nota Customer ?" << endl;
+		cout << "1 untuk lanjut ";
+		cout << "0 untuk kembali";
+		cin >> cetak;
+		if (cetak == 1)
+		{
+			system("CLS");
+			total[0] = jumlah[0] * harga[0];
+			total[1] = jumlah[1] * harga[1];
+			total[2] = jumlah[2] * harga[2];
+			ofstream myFile;
+			myFile.open("Nota.txt");
+			myFile << "--------------------------------------------" << endl;
+			myFile << "--                  NOTA                  --" << endl;
+			myFile << "--------------------------------------------" << endl;
+			myFile << "1. " << menu[0] << "Memesan " << jumlah[0]<< " || " << harga[0] << "Totalnya " << total[0] << endl;
+			myFile << "2. " << menu[1] << "Memesan " << jumlah[1]<< " || " << harga[1] << "Totalnya " << total[1] << endl;
+			myFile << "3. " << menu[2] << "Memesan " << jumlah[2]<< " || " << harga[2] << "Totalnya " << total[2] << endl;
+		}
+		else if (cetak == 0)
+		{
+			system("CLS");
+			goto awal;
+		}
+	}
+	else if (input == 3)
+	{
+		
+		system("CLS");
+		stok[0] = stok[0] - jumlah[0];
+		stok[1] = stok[1] - jumlah[1];
+		stok[2] = stok[2] - jumlah[2];
+		ofstream myFile;
+		myFile.open("Stok.txt");
+		myFile << "--------------------------------------------" << endl;
+		myFile << "--                  STOK                  --" << endl;
+		myFile << "--------------------------------------------" << endl;
+		myFile << menu[0] << "   ||   Stoknya ada " << stok[0] << endl;
+		myFile << menu[1] << "   ||   Stoknya ada " << stok[1] << endl;
+		myFile << menu[2] << "   ||   Stoknya ada " << stok[2] << endl;
+		myFile << "Yang Semangat kerja nya Masseh" << endl;
+		myFile << "Terimakasih :)" << endl;
+		goto awal;
+	}
+	else if (input == 4)
+	{
+		system("CLS");
+		goto akhir;
+	}
+	else
+	{
+		cout << "Input yang anda masukan salah";
+			goto awal;
+	}
+
+	akhir:
+	return 0;
+}
+
+
+int main()
+{
+	int pilih1;
+
+	total[0] = jumlah[0] * harga[0];
+	total[1] = jumlah[1] * harga[1];
+	total[2] = jumlah[2] * harga[2];
+	awalmain:
+	system("color f0");
+	header();
+	cout << "Ingin login sebagai apa ??" << endl;
+	cout << "1. Pembeli" << endl;
+	cout << "2. Admin" << endl;
+	cout << "3. Super Admin" << endl;
+	cout << "4. Keluar " << endl;
+	cin >> pilih1;
+	switch (pilih1)
+	{
+	case 1:
+		pembeli();  
+		rasa();
+		goto awalmain;
+		break;
+	case 2:
+		admin();
+		goto awalmain;
+		break;
+
+	case 4:
+		goto akhir;
+	default:
+		break;
+	}
+akhir:
+	return 0;
+}
